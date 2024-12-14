@@ -13,7 +13,7 @@
 
 - Un apasionado desarrollador front-end autodidacta
 - Actualmente estoy aprendiendo desarrollo web por mi cuenta
-- Mi website [link](https://quiet-cannoli-95de87.netlify.app)
+- Mi website [link](https://portafolioalejandrorojas.netlify.app)
 - Actualmente estoy abierto a una nueva oportunidad laboral, este es [mi currículum](CW.pdf)
 
 <br><br>
